@@ -1,0 +1,79 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html,body{
+	margin:0;
+	padding:0;
+	border:0;
+	font-family: "FrutigerLTStd-LightCn";
+	src: url("../fonts/FrutigerLTStd-LightCn.ttf") format("truetype");
+	font-weight: normal;
+    font-style: normal;
+    background: url("../images/gradient_website.jpg");
+}#container {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+#container2 {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+#container2 {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#container3 {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#container4 {
+}
+.float1 {
+	float: left;
+	width: 10%;
+	position: relative;
+	bottom: 650px;
+}
+	
+#container_box {
+	height: auto;
+	width: auto;
+	
+}
+/* navigation styles from instructor */
+
+h1 span{
+	font-size: 36px;
+}
+
+#brain img {
+	width: 100%;
+	height: auto;
+	margin-left: 200px;
+	position: relative;
+	top: -48px
+}
+
+ul li a:link, ul li a:visited {
+	text-decoration: none;
+	color: #06020B;	
+}
+
+ul li a:active, ul li a:hover {
+	padding: 2px;
+	color: #075C6E;
+	font-family: "FrutigerLTStd-Bold";
+	src: url("../fonts/FrutigerLTStd-Bold.ttf") format("truetype");
+}
+#table {
+	-webkit-box-shadow: 4px 4px 6px #116F9A;
+	box-shadow: 4px 4px 6px #116F9A;
+	border-collapse: collapse;
+	border: inset
+}

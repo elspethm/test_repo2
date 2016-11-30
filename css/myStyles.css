@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1{
+	color: #1A576F;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;	
+	font-size: 40px;
+}
+body{
+	color: #0D323D;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	background-image:url(../images/gradient_website.jpg)
+}
+div{font-size:18px;
+}
+h4{
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	color: purple;
+}
